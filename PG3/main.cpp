@@ -21,9 +21,11 @@ T Min(T a, T b)
 
 }
 
+
 template <>
 char Min<char>(char a, char b)
 {
+
 	return printf("”šˆÈŠO‚Í“ü—Í‚Å‚«‚Ü‚¹‚ñ\n");
 
 }
